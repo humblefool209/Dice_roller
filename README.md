@@ -1,9 +1,9 @@
 # Dice_roller
 
-What it does?
--A simple dice roller app.
--Can be used in case physical dice are not available for board games.
+What it does? <br />
+-A simple dice roller app. <br />
+-Can be used in case physical dice are not available for board games.<br />
 
-Credit goes to..
+Credit goes to..<br />
 -https://www.londonappbrewery.com/
 
